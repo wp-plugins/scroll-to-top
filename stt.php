@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Scroll To Top
-Plugin URI: http://www.geniusdeveloper.com.br/plugins-2/scrollto-top-and-history-back/?lang=en
+Plugin URI: http://www.geniusdeveloper.com.br/plugins-2/scroll-to-top/?lang=en
 Description: Creates a floating box centered in the footer of your site that only appears when you scroll the page down, and when clicked gently roll the site to the top.
 Version: 1.0
 Author: Rafael Cirolini
