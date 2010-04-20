@@ -6,7 +6,7 @@ Requires at least: 2.9.2
 Tested up to: 2.9.2
 Stable tag: 1.0
 
-Creates a floating box centered in the footer of your site that only appears when you scroll the page down, and when clicked gently roll the site to the top.
+Creates a floating box centered in the footer of your site that, and when clicked gently roll the site to the top.
 
 == Description ==
 
