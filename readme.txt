@@ -12,6 +12,13 @@ Creates a floating box centered in the footer of your site that, and when clicke
 
 Fully written in jQuery, the plugin adds a floating box centered in the footer of your site that only appears when you scroll the page down, and when clicked gently roll the site to the top. All this without any modification to your template.
 
+Supported features:
+
+* Smooth scrolling animation, powered by the jQuery
+* Customizable options via the admin panel
+* Works on almost all browsers including IE6
+* No need to add any markup to your theme
+
 == Installation ==
 
 * You can either use the automatic plugin installer or your FTP program to upload it to your wp-content/plugins directory the top-level folder. Don't just upload all the php files and put them in /wp-content/plugins/.
