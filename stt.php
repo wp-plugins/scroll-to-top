@@ -180,12 +180,12 @@ function stt_menu_function() {
         <th scope="row">Enable</th>
         <td>
         	<label> 
-        		<input type="radio" value="1" <?php verify_enable(); ?> name="stt_enable">
+        		<input type="radio" value="1" <?php stt_verify_enable(); ?> name="stt_enable">
         		Enable
         	</label>
         	<br>
         	<label>
-        		<input type="radio" value="0" <?php verify_disable(); ?> name="stt_enable">
+        		<input type="radio" value="0" <?php stt_verify_disable(); ?> name="stt_enable">
         		Disable
         	</label>
         </td>
