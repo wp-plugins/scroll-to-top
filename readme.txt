@@ -22,9 +22,9 @@ Fully written in jQuery, the plugin adds a floating box centered in the footer o
 
 == Screenshots ==
 
-1. Administrative panel on de color selection
-2. Administrative panel screen
-3. On the right side of the website the plugin entered a follow me on Twitter
+1. Screenshot 1
+2. Screenshot 2
+3. Screenshot 3
 
 == Changelog ==
 
