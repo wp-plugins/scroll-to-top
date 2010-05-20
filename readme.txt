@@ -4,7 +4,7 @@ Donate link: http://www.geniusdeveloper.com.br/
 Tags: scroll to top, back to top, jquery
 Requires at least: 2.9.2
 Tested up to: 2.9.2
-Stable tag: trunk
+Stable tag: 1.1
 
 Creates a floating box centered in the footer of your site that, and when clicked gently roll the site to the top.
 
@@ -34,6 +34,9 @@ Supported features:
 3. Screenshot 3
 
 == Changelog ==
+
+= version 1.1 =
+Fix de head bug
 
 = version 1.0 =
 Implementation of basic functionality
