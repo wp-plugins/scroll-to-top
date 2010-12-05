@@ -1,10 +1,10 @@
 === Scroll to Top ===
 Contributors: Rafael Cirolini
-Donate link: http://www.geniusdeveloper.com.br/
+Donate link: http://www.nerdhead.com.br/en/
 Tags: scroll to top, back to top, jquery
 Requires at least: 2.9.2
 Tested up to: 2.9.2
-Stable tag: 1.1
+Stable tag: 1.2
 
 Creates a floating box centered in the footer of your site that, and when clicked gently roll the site to the top.
 

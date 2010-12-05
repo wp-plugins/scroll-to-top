@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Scroll To Top
-Plugin URI: http://www.geniusdeveloper.com.br/plugins-2/scroll-to-top/?lang=en
+Plugin URI: http://www.nerdhead.com.br/en/scroll-to-top-en/
 Description: Creates a floating box centered in the footer of your site that only appears when you scroll the page down, and when clicked gently roll the site to the top.
-Version: 1.1
+Version: 1.2
 Author: Rafael Cirolini
-Author URI: http://www.geniusdeveloper.com.br
+Author URI: http://www.nerdhead.com.br/en/
 License: GPL2
 */
 
