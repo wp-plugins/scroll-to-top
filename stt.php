@@ -1,15 +1,15 @@
 <?php
 /*
 Plugin Name: Scroll To Top
-Plugin URI: http://www.nerdhead.com.br/en/scroll-to-top-en/
+Plugin URI: http://cirolini.com.br/scroll-to-top-en/
 Description: Creates a floating box centered in the footer of your site that only appears when you scroll the page down, and when clicked gently roll the site to the top.
-Version: 1.2
+Version: 2.0
 Author: Rafael Cirolini
-Author URI: http://www.nerdhead.com.br/en/
+Author URI: http://cirolini.com.br/
 License: GPL2
 */
 
-/*  Copyright 2010  Scroll To Top - Rafael Cirolini  (email : rafael@geniusti.com.br)
+/*  Copyright 2010  Scroll To Top - Rafael Cirolini  
  
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License, version 2, as
