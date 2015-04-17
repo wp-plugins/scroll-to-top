@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Scroll To Top
-Plugin URI: http://www.soumae.org/scroll-to-top/
+Plugin URI: http://www.cirolini.com.br/wordpress-plugin-scroll-to-top/
 Description: Creates a floating box centered in the footer of your site that only appears when you scroll the page down, and when clicked gently roll the site to the top.
 Version: 2.1
 Author: Rafael Cirolini
-Author URI: http://www.soumae.org/
+Author URI: http://www.cirolini.com.br/
 License: GPL2
 */
 
